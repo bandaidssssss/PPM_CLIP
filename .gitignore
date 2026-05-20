@@ -3,4 +3,4 @@ robustness/*
 runs/*
 logs/*
 checkpoints/*
-!checkpoints/genimage_PPM_CLIP_1021_0142.pt
+clip/ViT-L-14.pt
