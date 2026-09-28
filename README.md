@@ -1,5 +1,8 @@
 # PPM-CLIP
 
+Official implementation of our CVPR 2026 paper PPM-CLIP for universal AI-generated image detection.
+
+
 ## 1. Installation
 
 ```bash
